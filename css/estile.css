@@ -1,0 +1,36 @@
+#casilla1, #casilla2, #casilla3, #casilla4, #casilla5, #casilla6, #casilla7, #casilla8, #casilla9
+{
+    height: 200px;
+    width:200px;
+    border: 1px solid rgb(0, 0, 0); 
+    float: left; 
+    margin: auto; 
+    border-radius: 10px;
+}
+
+#general
+{
+    width: 650px;
+    height: 650px;
+    margin: auto; 
+}
+
+#botoncito
+{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+#img1
+{
+    width: 150px;
+    height: 150px;
+    margin:25px; 
+
+}
+body
+{
+    background-color: rgba(182, 182, 182, 0.63);
+}
+
